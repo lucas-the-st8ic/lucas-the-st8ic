@@ -1,4 +1,21 @@
-<<h1 align="center">Olá 👋, eu sou Lucas</h1>
+<h1 align="left">
+<img src="assets/coffee.gif" width="40"/> Developer
+</h1>
+```java
+public class Developer {
+
+    public static void main(String[] args) {
+
+        String name = "Lucas";
+
+        String focus = "Java Back-end Development";
+
+        System.out.println("Coding the future 🚀");
+
+    }
+
+}
+```
 
 <h3 align="center">Java Back-end Developer</h3>
 
@@ -121,20 +138,4 @@ Projetos que você verá aqui em breve:
 
 ---
 
-# ☕
 
-```java
-public class Developer {
-
-    public static void main(String[] args) {
-
-        String name = "Lucas";
-
-        String focus = "Java Back-end Development";
-
-        System.out.println("Coding the future 🚀");
-
-    }
-
-}
-```
