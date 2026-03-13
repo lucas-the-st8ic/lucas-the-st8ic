@@ -1,6 +1,4 @@
-<h1 align="left">
-<img src="assets/coffee.gif" width="40"/> Developer
-</h1>
+
 ```java
 public class Developer {
 
