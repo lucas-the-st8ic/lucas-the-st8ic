@@ -1,80 +1,99 @@
-<h1 align="left">Olá, eu sou Lucas 👋</h1>
+<<h1 align="center">Olá 👋, eu sou Lucas</h1>
 
-```java
-public class Developer {
-    public static void main(String[] args) {
-        System.out.println("Olá, eu sou lucas-the-st8ic ☕");
-    }
-}
-```
+<h3 align="center">Java Back-end Developer em formação</h3>
 
-### 🎓 Análise e Desenvolvimento de Sistemas — Anhembi Morumbi  
-### ☕ Estudando Java com foco em Back-end  
-### 🚀 Construindo projetos e evoluindo em desenvolvimento de software  
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • Construindo projetos em Java
+</p>
 
 ---
 
 # 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, em processo de transição para a área de **desenvolvimento de software**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🏫 Universidade **Anhembi Morumbi**
 
-Atualmente estudo **Java** de forma autodidata, com foco em:
+🚀 Atualmente focado em:
 
-- Desenvolvimento **Back-end**
+- Desenvolvimento **Back-end com Java**
 - **APIs REST**
-- **Arquitetura de software**
-- Sistemas escaláveis
+- **Spring Boot**
+- Arquitetura de software
 - Boas práticas de programação
 
-Este perfil reúne projetos, estudos e experimentos desenvolvidos durante minha jornada de aprendizado em tecnologia.
+📚 Este perfil reúne **projetos, estudos e experimentos** da minha jornada na programação.
 
 ---
 
-# 📊 Estatísticas
+# 🌐 Conecte-se comigo
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-the-st8ic&layout=compact&langs_count=6&theme=dracula"/>
-
-</div>
-
----
-
-# 🌐 Redes sociais
-
-<div align="left">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/lucas-the-st8ic/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://github.com/lucas-the-st8ic" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <a href="https://www.youtube.com/@Lucas.Silva.S1998" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🚀 Tecnologias e Ferramentas
 
-<div align="left">
+<p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-the-st8ic&layout=compact&langs_count=7&theme=dracula"/>
+
+</p>
+
+---
+
+# 🔥 Streak de commits
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-the-st8ic&theme=dracula"/>
+
+</p>
+
+---
+
+# 🏆 Troféus GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucas-the-st8ic&theme=dracula&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ---
 
@@ -88,10 +107,42 @@ Este perfil reúne projetos, estudos e experimentos desenvolvidos durante minha 
 
 ---
 
+# 📂 Projetos em destaque
+
+🚧 Em construção
+
+Projetos que você verá aqui em breve:
+
+- API REST com **Spring Boot**
+- Sistema **CRUD em Java**
+- Projetos de estudo em **Java Back-end**
+
+---
+
 # 👀 Visitantes
 
-<div align="center">
+<p align="center">
 
 <img src="https://count.getloli.com/@:lucas-the-st8ic?theme=3d-num&padding=8&scale=1&align=top&pixelated=1&darkmode=1"/>
 
-</div>
+</p>
+
+---
+
+# ☕
+
+```java
+public class Developer {
+
+    public static void main(String[] args) {
+
+        String name = "Lucas";
+
+        String focus = "Java Back-end Development";
+
+        System.out.println("Coding the future 🚀");
+
+    }
+
+}
+```
