@@ -85,18 +85,6 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 </p>
 
----
-
-# 🏆 Troféus GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucas-the-st8ic&theme=dracula&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 🐍 Contribuições
 
 <picture>
