@@ -1,6 +1,6 @@
 <<h1 align="center">Olá 👋, eu sou Lucas</h1>
 
-<h3 align="center">Java Back-end Developer em formação</h3>
+<h3 align="center">Java Back-end Developer</h3>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • Construindo projetos em Java
