@@ -85,6 +85,8 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 # 🐍 Contribuições
 
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-the-st8ic/lucas-the-st8ic/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-the-st8ic/lucas-the-st8ic/output/github-contribution-grid-snake.svg">
