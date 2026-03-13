@@ -8,6 +8,27 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 ---
 
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-the-st8ic&layout=compact&langs_count=7&theme=dracula"/>
+
+</p>
+
+---
+
+# 🔥 Streak de commits
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-the-st8ic&theme=dracula"/>
+
+</p>
+
+
 # 👨‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -60,27 +81,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 </p>
 
----
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-the-st8ic&layout=compact&langs_count=7&theme=dracula"/>
-
-</p>
-
----
-
-# 🔥 Streak de commits
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-the-st8ic&theme=dracula"/>
-
-</p>
 
 # 🐍 Contribuições
 
