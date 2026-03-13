@@ -12,10 +12,11 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-the-st8ic&layout=compact&langs_count=7&theme=github_dark"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-the-st8ic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-the-st8ic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-the-st8ic&radius=16&theme=nord&area=false&order=5&hide_border=true" height="282" alt="activity-graph graph"  />
+</div>
 </p>
 
 ---
@@ -24,7 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-the-st8ic&theme=dracula"/>
+ <img src="https://streak-stats.demolab.com?user=lucas-the-st8ic&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
 
 </p>
 
