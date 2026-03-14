@@ -82,6 +82,18 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
+<a href="mailto:lucas.silva.s1998@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/st8ic_lucas.exe/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://wa.me/5511957387490" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40"/>
+</a>
+
 </p>
 
 ---
