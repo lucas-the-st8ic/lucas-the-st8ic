@@ -48,6 +48,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucas-the-st8ic&theme=city_lights&border_radius=5" width="500"/>
+    <img align="right" width="300" src="https://github.com/lucas-the-st8ic/lucas-the-st8ic/blob/main/giphy.gif">
 </p>
 
 
