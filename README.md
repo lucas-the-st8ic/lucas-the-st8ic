@@ -5,13 +5,16 @@ public class Developer {
     public static void main(String[] args) {
 
         String name = "Lucas";
-
         String focus = "Java Back-end Development";
+        boolean coffee = true;
 
+        System.out.println("Hello World! 👋");
         System.out.println("Coding the future 🚀");
 
+        if (coffee) {
+            System.out.println("Turning coffee ☕ into Java code 💻");
+        }
     }
-
 }
 ```
 
