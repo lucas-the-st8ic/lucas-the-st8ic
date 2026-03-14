@@ -40,7 +40,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-the-st8ic&radius=16&theme=nord&area=false&order=5&hide_border=true" height="282" />
 
-</p>>
+</p>
 
 ---
 
