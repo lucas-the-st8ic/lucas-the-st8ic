@@ -70,7 +70,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 ---
 
-# 🌐 Conecte-se comigo
+# 🌐 Entre em Contato
 
 <p align="left">
 
