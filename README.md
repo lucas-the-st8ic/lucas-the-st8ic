@@ -35,6 +35,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-the-st8ic&radius=16&theme=nord&area=false&hide_border=true" height="282" />
 </p>
+
 ---
 
 # 🔥 Streak de commits
@@ -45,6 +46,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucas-the-st8ic&theme=city_lights&border_radius=5" width="500"/>
 </p>
+
 ---
 
 # 👨‍💻 Sobre mim
