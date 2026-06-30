@@ -49,6 +49,14 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 ---
 
+# 🏆 Codewars
+
+<p align="center">
+  <img src= "https://www.codewars.com/users/lucas-the-st8ic/badges/large" alt="Codewars Badge"/>
+</p>
+
+---
+
 # 👨‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
