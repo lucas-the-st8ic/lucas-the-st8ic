@@ -9,7 +9,7 @@ public class Developer {
         boolean coffee = true;
 
         System.out.println("Hello World! 👋");
-        System.out.println("Coding the future 🚀");
+        System.out.println("Always a student. Always improving.📚");
 
         if (coffee) {
             System.out.println("Turning coffee ☕ into Java code 💻");
