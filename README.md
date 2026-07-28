@@ -143,20 +143,21 @@ API REST para gerenciamento de agendamentos de serviços, construída em **Java*
   <img src="https://skillicons.dev/icons?i=spring" height="35"/>
   <img src="https://skillicons.dev/icons?i=maven" height="35"/>
 </p>
-**Funcionalidades (CRUD completo):**
-- ✅ Criar agendamento, com validação de horário já ocupado para o mesmo serviço
-- 🔍 Listar agendamentos de um dia específico
-- ✏️ Atualizar um agendamento existente
-- 🗑️ Remover um agendamento
-**Destaques técnicos:**
+
+**Funcionalidades (CRUD completo)**
+-  Criar agendamento, com validação de horário já ocupado para o mesmo serviço
+-  Listar agendamentos de um dia específico
+-  Atualizar um agendamento existente
+-  Remover um agendamento
+---
+
+**Destaques Técnicos**
 - Arquitetura em camadas (Controller, Service, Repository, Entity)
 - Query Methods do Spring Data JPA (buscas derivadas sem SQL manual)
 - Regra de negócio no Service para impedir duplo agendamento no mesmo horário
 - Banco de dados H2 em memória, com console web habilitado para testes
 - Lombok para redução de boilerplate
 🔗 [Ver repositório](https://github.com/lucas-the-st8ic/agenda-de-horarios) &nbsp;|&nbsp; 📄 [Documentação da API](https://github.com/lucas-the-st8ic/agenda-de-horarios#readme)
- 
----
  
 <!--
 Próximos projetos entrarão aqui, seguindo o mesmo padrão:
