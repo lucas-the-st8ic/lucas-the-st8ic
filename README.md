@@ -134,14 +134,35 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 # 📂 Projetos em destaque
 
-🚧 Em construção
-
-Projetos que você verá aqui em breve:
-
-- API REST com **Spring Boot**
-- Sistema **CRUD em Java**
-- Projetos de estudo em **Java Back-end**
-
+### 🗓️ [Agenda de Horários](https://github.com/lucas-the-st8ic/agenda-de-horarios)
+ 
+API REST para gerenciamento de agendamentos de serviços, construída em **Java** com **Spring Boot**, aplicando arquitetura em camadas (Controller → Service → Repository) e regras de negócio para evitar conflitos de horário.
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="35"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="35"/>
+  <img src="https://skillicons.dev/icons?i=maven" height="35"/>
+</p>
+**Funcionalidades (CRUD completo):**
+- ✅ Criar agendamento, com validação de horário já ocupado para o mesmo serviço
+- 🔍 Listar agendamentos de um dia específico
+- ✏️ Atualizar um agendamento existente
+- 🗑️ Remover um agendamento
+**Destaques técnicos:**
+- Arquitetura em camadas (Controller, Service, Repository, Entity)
+- Query Methods do Spring Data JPA (buscas derivadas sem SQL manual)
+- Regra de negócio no Service para impedir duplo agendamento no mesmo horário
+- Banco de dados H2 em memória, com console web habilitado para testes
+- Lombok para redução de boilerplate
+🔗 [Ver repositório](https://github.com/lucas-the-st8ic/agenda-de-horarios) &nbsp;|&nbsp; 📄 [Documentação da API](https://github.com/lucas-the-st8ic/agenda-de-horarios#readme)
+ 
+---
+ 
+<!--
+Próximos projetos entrarão aqui, seguindo o mesmo padrão:
+### 🔖 [Nome do Projeto](link)
+Descrição curta...
+-->
 ---
 
 # 👀 Visitantes
