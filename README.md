@@ -118,6 +118,9 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=maven" height="50"/>
 </p>
 
 # 🐍 Contribuições
