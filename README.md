@@ -25,6 +25,28 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 </p>
 
 ---
+# 🚀 Tecnologias e Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=idea" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=maven" height="50"/>
+</p>
+
+---
 
 # 📊 Estatísticas do GitHub
 
@@ -102,26 +124,6 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=spring" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=idea" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=maven" height="50"/>
-</p>
 
 # 🐍 Contribuições
 
@@ -168,14 +170,9 @@ Próximos projetos entrarão aqui, seguindo o mesmo padrão:
 Descrição curta...
 -->
 ---
-
-# 👀 Visitantes
-
-<p align="center">
-
-<img src="https://count.getloli.com/@:lucas-the-st8ic?theme=3d-num&padding=8&scale=1&align=top&pixelated=1&darkmode=1"/>
-
-</p>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
 ---
 
