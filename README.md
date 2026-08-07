@@ -25,7 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 </p>
 
 ---
-# 🚀 Tecnologias e Ferramentas
+# </>🛠️ Tecnologias e Ferramentas  
 
 <p>
 
@@ -79,7 +79,7 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨🏽‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🏫 Universidade **Anhembi Morumbi**
