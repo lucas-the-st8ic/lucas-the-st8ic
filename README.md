@@ -54,9 +54,10 @@ Estudante de Análise e Desenvolvimento de Sistemas • Focado em Back-end • C
   <img src="https://mygithub-stats-extended.vercel.app/api/top-langs?username=lucas-the-st8ic&langs_count=4&theme=nord" height="300" />
 <img src="https://mygithub-stats-extended.vercel.app/api?username=lucas-the-st8ic&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord" height="300" />
 </p>
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-the-st8ic&radius=16&theme=nord&area=false&hide_border=true" height="282" />
-</p>
+</p> -->
 
 ---
 
